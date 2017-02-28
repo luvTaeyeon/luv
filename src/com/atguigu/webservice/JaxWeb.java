@@ -12,5 +12,7 @@ public class JaxWeb {
 		
 		System.out.println(ww.fn(8, 9));
 		int ty = 309;
+		
+		String kim = "taeyeon";
 	}
 }
