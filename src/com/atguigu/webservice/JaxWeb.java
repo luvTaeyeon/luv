@@ -11,6 +11,6 @@ public class JaxWeb {
 		WW ww = (int a,int b)->a-b;
 		
 		System.out.println(ww.fn(8, 9));
-		
+		int ty = 309;
 	}
 }
