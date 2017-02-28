@@ -14,5 +14,7 @@ public class JaxWeb {
 		int ty = 309;
 		String kim = "Taeyeon";
 		
+		
+		String lim = "yoona";
 	}
 }
